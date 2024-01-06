@@ -1,0 +1,27 @@
+*{ 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.card{ 
+    background-color: #000000;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    width: 400px;
+    border-radius: 10px;
+    height: 500px;
+    width: 400px;
+    margin: 20px;
+    padding: 20px;
+}
+img{ 
+    width: 100%;
+}
+.content-for-card{ 
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+    line-height: 29px;
+}
